@@ -17,6 +17,7 @@ Replace `YOUR_USERNAME` with your GitHub username after you create the repo.
 - `ssh_ids.py` — script
 - `sample_auth (sample).log` — offline practice log
 - `alerts.log` — optional; only created when you run with `--alert-log alerts.log`
+- obsidian-notes/ — step-by-step guides
 
 ## Test
 
